@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://daeheung-massage-note.card-hakkoku.store/sitemap.xml
+Sitemap: https://daeheung-massage-note.card-hakkoku.store/sitemap-pages.xml
